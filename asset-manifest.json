@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/chrahman/chrahman.github.io/static/css/main.bf596a23.chunk.css",
-    "main.js": "/chrahman/chrahman.github.io/static/js/main.a962972c.chunk.js",
-    "main.js.map": "/chrahman/chrahman.github.io/static/js/main.a962972c.chunk.js.map",
+    "main.js": "/chrahman/chrahman.github.io/static/js/main.95809ff5.chunk.js",
+    "main.js.map": "/chrahman/chrahman.github.io/static/js/main.95809ff5.chunk.js.map",
     "runtime-main.js": "/chrahman/chrahman.github.io/static/js/runtime-main.2f9910fe.js",
     "runtime-main.js.map": "/chrahman/chrahman.github.io/static/js/runtime-main.2f9910fe.js.map",
     "static/css/2.66385cd9.chunk.css": "/chrahman/chrahman.github.io/static/css/2.66385cd9.chunk.css",
-    "static/js/2.9d901979.chunk.js": "/chrahman/chrahman.github.io/static/js/2.9d901979.chunk.js",
-    "static/js/2.9d901979.chunk.js.map": "/chrahman/chrahman.github.io/static/js/2.9d901979.chunk.js.map",
+    "static/js/2.36b49276.chunk.js": "/chrahman/chrahman.github.io/static/js/2.36b49276.chunk.js",
+    "static/js/2.36b49276.chunk.js.map": "/chrahman/chrahman.github.io/static/js/2.36b49276.chunk.js.map",
     "static/js/3.ff8cba88.chunk.js": "/chrahman/chrahman.github.io/static/js/3.ff8cba88.chunk.js",
     "static/js/3.ff8cba88.chunk.js.map": "/chrahman/chrahman.github.io/static/js/3.ff8cba88.chunk.js.map",
     "static/js/4.52bb6e7f.chunk.js": "/chrahman/chrahman.github.io/static/js/4.52bb6e7f.chunk.js",
@@ -25,7 +25,7 @@
     "index.html": "/chrahman/chrahman.github.io/index.html",
     "static/css/2.66385cd9.chunk.css.map": "/chrahman/chrahman.github.io/static/css/2.66385cd9.chunk.css.map",
     "static/css/main.bf596a23.chunk.css.map": "/chrahman/chrahman.github.io/static/css/main.bf596a23.chunk.css.map",
-    "static/js/2.9d901979.chunk.js.LICENSE.txt": "/chrahman/chrahman.github.io/static/js/2.9d901979.chunk.js.LICENSE.txt",
+    "static/js/2.36b49276.chunk.js.LICENSE.txt": "/chrahman/chrahman.github.io/static/js/2.36b49276.chunk.js.LICENSE.txt",
     "static/media/Mern-Stack-Developer.418dc8a4.jpg": "/chrahman/chrahman.github.io/static/media/Mern-Stack-Developer.418dc8a4.jpg",
     "static/media/contact.94d99d24.svg": "/chrahman/chrahman.github.io/static/media/contact.94d99d24.svg",
     "static/media/index.css": "/chrahman/chrahman.github.io/static/media/poppins-latin-ext-400-normal.4f38b433.woff2",
@@ -34,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.2f9910fe.js",
     "static/css/2.66385cd9.chunk.css",
-    "static/js/2.9d901979.chunk.js",
+    "static/js/2.36b49276.chunk.js",
     "static/css/main.bf596a23.chunk.css",
-    "static/js/main.a962972c.chunk.js"
+    "static/js/main.95809ff5.chunk.js"
   ]
 }
